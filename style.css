@@ -1,0 +1,196 @@
+body {
+    padding:10px;
+    margin:2%;
+}
+h1
+{
+    margin-left: 46.7%;
+    color: white;
+    text-shadow: 2px 3px black;
+}
+h2
+{
+    margin-left:41.5%;
+    color: white;
+      text-shadow: 2px 3px black;
+}
+#active
+{
+    color:rgba(0,0,0,0.7);
+    
+}
+#active:hover{
+    cursor:default;
+}
+#st-01
+{
+    background-image: url(bg1.jpg);
+    margin-left:-2.8%;
+    margin-top:-2.8%;
+    padding: 2%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    z-index:-1;
+    width: 101.25%;
+    position:static;
+    border-style: outset;
+    border-color: grey;
+}
+#nav-p
+{
+    margin-left: -2.8%;
+    z-index: -1;
+    
+}
+#nav{
+    width:25ch;
+    background-color: rgba(0,0,0,0.1);
+    margin:0%;
+    padding: 2%;
+    display: inline-block;
+    margin-top: -1.5%;
+
+}
+#nav>h3 , #nav>p 
+{
+    background-color: white;
+    margin:3%;
+    padding:2%;
+    margin-bottom:-4%;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+a:hover
+{
+    cursor: pointer;
+}
+#items
+{
+    margin-top: -10%;
+    width: 70%;
+ border: solid;
+ border-color: transparent;
+ margin-left: 25%;
+    
+    
+}
+#data
+{
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 2rem;
+    border: 12%;
+    border-style: solid;
+    width: 30rem;
+    text-align: center;
+}
+#data td:nth-child(1)
+{
+    border-right: black;
+    border-right-style: solid;
+}
+#data td:nth-child(2)
+{
+    border-right: black;
+    border-right-style: solid;
+}
+#data td
+{
+    
+    border-bottom: black;
+    border-bottom-style: solid;
+}
+table tr:nth-child(1)
+{
+    background-color:grey;
+}
+#login
+{
+    margin-left: 25%;
+}
+#user
+{
+    margin-bottom:3%;
+}
+#login-form
+{
+    margin:0 auto;
+    width:30rem;
+    border-style: solid;
+    border-width: 0.1rem;
+    padding:4%;
+    height:10rem;
+    box-shadow: 2px 2px 3px black;
+}
+#submit
+{
+    margin-left:25%;
+    margin-top: 10%;
+}
+#pass
+{
+    margin:1%;
+}
+#submit2
+{
+    margin-left:50%;
+    margin-top:2%;
+    height: 1.8rem;
+    
+}
+#logo
+{
+    margin-top: -9%;
+    width:50%;
+    margin-bottom: -2%;
+    margin-left: 25%;
+    border-radius: 50%;
+}
+#final
+{
+    margin-top: 2%;
+}
+button:hover{
+    cursor: pointer;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url(bg1.jpg);
+    color: white;
+    text-align: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .footer > p{
+      margin-right: 4%;
+  }
+ #announcement
+ {
+    width:50%;
+    display:block;
+    margin-left:auto 0;
+    margin-top:-150px;
+    align-items: center;
+ }
+ #announce
+ {
+    resize:none;
+ }
+ #show
+ {
+     display: block;
+     
+     margin-top: -12%;
+     
+ }
+#announcement1
+{
+    margin-left:0%;
+}
